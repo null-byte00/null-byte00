@@ -24,7 +24,7 @@ null-byte00@github ~ % cat projects.txt
 null-byte00@github ~ % echo $IDE
 ```
 
-**Windsurf** — лучшая IDE, через неё и пилится всё.
+[**GardelyCode**](https://github.com/null-byte00/gardelycode-community) — лучшая IDE, через неё и пилится всё.
 
 ```console
 null-byte00@github ~ % cat stats.txt
