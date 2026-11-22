@@ -5,13 +5,8 @@
 </div>
 
 ```console
-null-byte00@github ~ % whoami
+null-byte00@github ~ % whoami && cat projects.txt
 ```
-
-Делаю утилиты для Windows на C# — запись экрана, память, автоматизация.
-Беру идею и довожу до программы, которой можно просто пользоваться.
-
-```console
 null-byte00@github ~ % cat projects.txt
 ```
 
