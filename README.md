@@ -21,6 +21,12 @@ null-byte00@github ~ % cat projects.txt
 | 🤖 [**GardelyCode**](https://github.com/null-byte00/gardelycode-community) | Бесплатная AI-студия: приложения по текстовому описанию |
 
 ```console
+null-byte00@github ~ % echo $IDE
+```
+
+**Windsurf** — лучшая IDE, через неё и пилится всё.
+
+```console
 null-byte00@github ~ % cat stats.txt
 ```
 
