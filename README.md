@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E81123&center=true&vCenter=true&width=600&lines=Rust+coding;C%23+%C2%B7+Rust+%C2%B7+Windows+tools;ClipBar+%C2%B7+MemCleaner+%C2%B7+GardelyCode)](https://github.com/null-byte00)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E81123&center=true&vCenter=true&width=600&lines=Rust+coding;C%23+%C2%B7+Rust+%C2%B7+Windows+tools;ClipBar+%C2%B7+MemCleaner+%C2%B7+StreamerMode+%C2%B7+GardelyCode)](https://github.com/null-byte00)
 
 </div>
 
