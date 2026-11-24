@@ -18,6 +18,7 @@ null-byte00@github ~ % cat projects.txt
 |---|---|
 | 🎬 [**ClipBar**](https://github.com/null-byte00/ClipBar) | Запись экрана и мгновенный откат для Windows — GPU-кодирование (QSV/NVENC/AMF), оверлей Alt+Z, редактор, скриншоты |
 | 🧹 [**MemCleaner**](https://github.com/null-byte00/MemCleaner) | Очистка памяти: EmptyWorkingSet + purge standby/modified + file cache. Трей, авто-чистка по порогу, автозагрузка |
+| 🥷 [**StreamerMode**](https://github.com/null-byte00/StreamerMode) | Прячет выбранные окна из записи и OBS — тебе видны, в кадре их нет. Бинд на приложение, стример-режим |
 | 🤖 [**GardelyCode**](https://github.com/null-byte00/gardelycode-community) | Бесплатная AI-студия: приложения по текстовому описанию |
 
 ```console
