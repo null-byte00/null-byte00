@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E81123&center=true&vCenter=true&width=600&lines=Rust+coding;C%23+%C2%B7+Rust+%C2%B7+Windows+tools;ClipBar+%C2%B7+MemCleaner+%C2%B7+StreamerMode+%C2%B7+GardelyCode)](https://github.com/null-byte00)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=E81123&center=true&vCenter=true&width=600&lines=Rust+coding;C%23+%C2%B7+Rust+%C2%B7+Windows+tools;ClipBar+%C2%B7+MemCleaner+%C2%B7+StreamerMode+%C2%B7+PinWindow+%C2%B7+GardelyCode)](https://github.com/null-byte00)
 
 </div>
 
@@ -19,6 +19,7 @@ null-byte00@github ~ % cat projects.txt
 | 🎬 [**ClipBar**](https://github.com/null-byte00/ClipBar) | Запись экрана и мгновенный откат для Windows — GPU-кодирование (QSV/NVENC/AMF), оверлей Alt+Z, редактор, скриншоты |
 | 🧹 [**MemCleaner**](https://github.com/null-byte00/MemCleaner) | Очистка памяти: EmptyWorkingSet + purge standby/modified + file cache. Трей, авто-чистка по порогу, автозагрузка |
 | 🥷 [**StreamerMode**](https://github.com/null-byte00/StreamerMode) | Прячет выбранные окна из записи и OBS — тебе видны, в кадре их нет. Бинд на приложение, стример-режим |
+| 📌 [**PinWindow**](https://github.com/null-byte00/PinWindow) | Закрепляет любое окно поверх всех — видео поверх игры. Сквозной клик, трей |
 | 🤖 [**GardelyCode**](https://github.com/null-byte00/gardelycode-community) | Бесплатная AI-студия: приложения по текстовому описанию |
 
 ```console
